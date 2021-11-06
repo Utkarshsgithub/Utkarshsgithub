@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Utkarshsgithub
+- 👋 Hi, I’m Utkarsh Singh
 - 👀 I’m in love with coding
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on anything
