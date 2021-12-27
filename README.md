@@ -4,6 +4,8 @@ A Full-Stack Web Developer.
 
 Exploring Freelancing And Making Projects.
 
+Skills: HTML | CSS | JS | PYTHON | DJANGO | REACT | PHP
+
 -> [My Portfolio Website](https://utkarshsgithub.github.io/protfolio)
 
 -> [My Projects](https://utkarshsgithub.github.io/projects)
