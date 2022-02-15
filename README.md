@@ -1,10 +1,10 @@
 👋 Hi, I’m Utkarsh Singh,
 
-A Good Backend Developer, A Great Frontend Developer 
+I'm a Passionate Full Stack Developer.
 
-And A Passionate Full-Stack Developer.
+I create website with great stand out design.
 
-Exploring Freelancing And Making Projects.
+Exploring Freelancing And Working On Cool Projects.
 
 Skills: HTML | CSS | JS | PYTHON | DJANGO | REACT | PHP | MYSQL
 
