@@ -2,7 +2,7 @@
 
 I'm a Passionate Full Stack Developer.
 
-I create website with great stand out design.
+I create websites with great stand out design.
 
 Exploring Freelancing And Working On Cool Projects.
 
