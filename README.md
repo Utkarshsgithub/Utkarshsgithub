@@ -1,17 +1,11 @@
-👋 Hi, I’m Utkarsh Singh,
+Hi 👋, I’m Utkarsh,
 
-I'm a Passionate Full Stack Developer.
+Passionate Full Stack Developer.
 
-I create websites with great stand out design.
+Great Frontend Developer, Good Backend Developer,
 
 Exploring Freelancing And Working On Cool Projects.
 
-Skills: HTML | CSS | JS | PYTHON | DJANGO | REACT | PHP | MYSQL
+Skills: HTML | CSS | JS | PYTHON | DJANGO | REACT | WEB DESIGNING
 
--> [My Portfolio Website](https://utkarshsgithub.github.io/portfolio)
-
--> [My Projects](https://utkarshsgithub.github.io/projects)
-
--> [My Twitter](https://twitter.com/UtkarshCodes)
-
--> [My Instagram](https://instagram.com/utkarshcodes)
+Links: [Portfolio](https://utkarshsgithub.github.io/portfolio) | [Twitter](https://twitter.com/UtkarshCodes) | [Instagram](https://instagram.com/utkarshcodes) | [LinkedIn](https://instagram.com/utkarshcodes) | [Discord](https://discord.com/invite/ZsuaFHzvXB)
