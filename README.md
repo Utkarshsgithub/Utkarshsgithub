@@ -2,7 +2,7 @@ Hi 👋, I’m Utkarsh,
 
 Passionate Full Stack Developer.
 
-Great Frontend Developer, Good Backend Developer,
+Specializing in Frontend And Designing.
 
 Exploring Freelancing And Working On Cool Projects.
 
