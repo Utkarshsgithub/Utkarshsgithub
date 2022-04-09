@@ -1,6 +1,6 @@
 # Hi 👋, I’m Utkarsh,
 
-Passionate Full Stack Developer.
+Passionate Freelance Web Developer.
 
 **Specializing in Frontend And Designing.**
 
